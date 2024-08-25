@@ -8,10 +8,5 @@
 <br> 잘부탁드립니다! 감사합니다
 </div>
 
-<div align=center>
-<img src="https://img.shields.io/badge/언어-181717?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>등을 사용중 입니다.
-</div>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Choidongho08&count_private=true&show_icons=true&theme=solarized-light)
 
